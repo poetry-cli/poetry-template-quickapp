@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://nicelinks.site?from=github">
+  <a href="">
     <img width="200" height="200" src="https://raw.githubusercontent.com/nicejade/quickapp-boilerplate-template/master/src/assets/images/logo.png" alt="快应用脚手架模板">
   </a>
 </div>
@@ -8,27 +8,6 @@
 
 <div align="center">
   🔨 致力于构建更为优雅的<strong><a href="">快应用</a></strong>开发脚手架模板
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://circleci.com/gh/nicejade/quickapp-boilerplate-template">
-    <img src="https://circleci.com/gh/nicejade/quickapp-boilerplate-template/tree/master.svg?style=svg" alt="Build Status">
-  </a>
-  <a href="https://nodejs.org/en/">
-    <img src="https://img.shields.io/badge/node-%3E=%206.0.0-green.svg" alt="node version">
-  </a>
-  <a href="https://nicelinks.site/post/5c16083e819ae45de1453caa">
-    <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat" alt="Prettier">
-  </a>
-  <a href="https://github.com/nicejade/quickapp-boilerplate-template">
-    <img src="https://img.shields.io/github/license/nicejade/quickapp-boilerplate-template.svg" alt="LICENSE">
-  </a>
-  <a href="https://nice.lovejade.cn/zh/article/quickapp-boilerplate-template.html">
-    <img src="https://img.shields.io/badge/chat-on%20blog-brightgreen.svg" alt="Chat On My Blog">
-  </a>
-  <a href="https://aboutme.lovejade.cn/?from=github"><img src="https://img.shields.io/badge/Author-nicejade-%23a696c8.svg" alt="Author nicejade"></a>
 </div>
 
 ## 组织结构

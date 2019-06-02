@@ -7,7 +7,7 @@
 <h1 align="center">快应用脚手架模板</h1>
 
 <div align="center">
-  🔨 致力于构建更为优雅的<strong><a href="">快应用</a></strong>开发脚手架模板
+  🔨 致力于构建更为优雅的<strong>快应用</strong>开发脚手架模板
 </div>
 
 ## 组织结构

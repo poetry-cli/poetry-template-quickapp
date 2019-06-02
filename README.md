@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="">
     <img width="200" height="200" src="https://raw.githubusercontent.com/nicejade/quickapp-boilerplate-template/master/src/assets/images/logo.png" alt="快应用脚手架模板">
-  </a>
 </div>
 
 <h1 align="center">快应用脚手架模板</h1>
